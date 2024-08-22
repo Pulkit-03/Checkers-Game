@@ -21,5 +21,5 @@ This project is a classic implementation of the Checkers board game, designed us
 
 ## Clone the repository
 ```bash
-git clone https://github.com/yourusername/checkers-game.git
+git clone https://github.com/Pulkit-03/Checkers-Game.git
 cd checkers-game
